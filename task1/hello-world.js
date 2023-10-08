@@ -1,0 +1,1 @@
+exports.Greeting = 'Hello world';
